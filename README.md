@@ -1,1 +1,9 @@
-# processing-responses-from-gorest
+# Страницы блога
+
+## на основе ответа с gorest:
+![async](https://user-images.githubusercontent.com/105582256/177310336-57f9dd64-7a94-48a5-8884-205e7de235be.png)
+
+## на первой странице создаю пагинацию, а по каждой ссылке происходит переход на уникальную страницу блога с текстом и комментариями по id:
+![blog-page](https://user-images.githubusercontent.com/105582256/177310648-470c6557-237a-4904-a40a-11b79ac7bb6f.gif)
+
+### Позже планирую переделать пагинацию 
